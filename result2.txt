@@ -1,0 +1,32 @@
+Fold: 1
+Accuracy: + 3622.0 Total: 5216.0
+Percent: 69.4401840491
+Fold: 2
+Accuracy: + 3648.0 Total: 5216.0
+Percent: 69.9386503067
+Fold: 3
+Accuracy: + 3623.0 Total: 5216.0
+Percent: 69.4593558282
+Fold: 4
+Accuracy: + 3672.0 Total: 5216.0
+Percent: 70.3987730061
+Fold: 5
+Accuracy: + 3632.0 Total: 5216.0
+Percent: 69.6319018405
+Fold: 6
+Accuracy: + 3631.0 Total: 5216.0
+Percent: 69.6127300613
+Fold: 7
+Accuracy: + 3655.0 Total: 5216.0
+Percent: 70.0728527607
+Fold: 8
+Accuracy: + 3657.0 Total: 5216.0
+Percent: 70.111196319
+Fold: 9
+Accuracy: + 3630.0 Total: 5216.0
+Percent: 69.5935582822
+Fold: 10
+Accuracy: + 3697.0 Total: 5216.0
+Percent: 70.8780674847
+
+Avg accuracy:- 69.91372699384999

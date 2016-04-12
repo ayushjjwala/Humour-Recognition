@@ -1,0 +1,17 @@
+Fold: 1
+Accuracy: + 7321.0 Total: 10433.0
+Percent: 70.1715709767
+Fold: 2
+Accuracy: + 7306.0 Total: 10433.0
+Percent: 70.0277964152
+Fold: 3
+Accuracy: + 7253.0 Total: 10433.0
+Percent: 69.5197929646
+Fold: 4
+Accuracy: + 7289.0 Total: 10433.0
+Percent: 69.8648519122
+Fold: 5
+Accuracy: + 7299.0 Total: 10433.0
+Percent: 69.9607016199
+
+avg-accuracy = 69.90894277772
